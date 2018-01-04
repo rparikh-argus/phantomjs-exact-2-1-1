@@ -4,7 +4,7 @@
     "name": "Jan Blaha"
   },
   "dependencies": {
-    "phantomjs-prebuilt": "2.1.12"
+    "phantomjs-prebuilt": "^2.1.16"
   },
   "description": "Installs specific phantomjs 2.1.1",
   "homepage": "https://github.com/pofider/phantomjs-exact-2-1-1",
